@@ -28,9 +28,9 @@ sudo apt-get install gir1.2-appindicator3 -y
 sudo apt-get install python-gobject -y
 ```
 
-**I know the code is not optimized, it was just an experiment!**
+**I know the code is not optimized, it was just an experiment! Feel free to fork it and improve it!**
 
-After that all you have to do is run the customapp.tray
+After that all you have to do is run the customtray.tray
 ```
-python customapp.py
+python customtray.py
 ```
